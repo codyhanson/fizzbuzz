@@ -1,7 +1,6 @@
 #! /usr/bin/env python
 
 for x in xrange(101):
-    doNum = True
     printStr = ''
     if (x % 3 == 0):
         printStr = printStr + 'fizz'
